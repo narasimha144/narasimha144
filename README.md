@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @narasimha144
 - 👀 I’m interested in software development in general
-- 🌱 I’m currently learning JS and React
-- 💞️ I’m looking to collaborate on strong projects involving C++, JS and React
+- 🌱 I’m currently learning Android App Development
+- 💞️ I’m looking to collaborate on strong projects with direct impact
 - 📫 you can reach me at narasimha@alphonso.tv
 
 <!---
