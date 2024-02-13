@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @narasimha144
 - 👀 I’m interested in software development in general
-- 🌱 I’m currently learning Android App Development
+- 🌱 I’m currently working on Ad stack
 - 💞️ I’m looking to collaborate on strong projects with direct impact
 - 📫 you can reach me at narasimha@alphonso.tv
 
